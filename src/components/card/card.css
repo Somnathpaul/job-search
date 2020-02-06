@@ -1,0 +1,18 @@
+.card{
+    font-family: Avenir;
+    text-align: center;
+    display: flex;
+    background-color: rgb(183, 220, 245);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(167, 167, 167, 0.23);
+    padding: 25px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    flex-direction: column;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+
+.card:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(84, 145, 224, 0.23);
+    transform: scale(1.05);
+  }
