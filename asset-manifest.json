@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/job-serach/static/css/main.e8d3918d.chunk.css",
+    "main.js": "/job-serach/static/js/main.8c63d8c3.chunk.js",
+    "main.js.map": "/job-serach/static/js/main.8c63d8c3.chunk.js.map",
+    "runtime-main.js": "/job-serach/static/js/runtime-main.09bb1836.js",
+    "runtime-main.js.map": "/job-serach/static/js/runtime-main.09bb1836.js.map",
+    "static/js/2.d0e35b3a.chunk.js": "/job-serach/static/js/2.d0e35b3a.chunk.js",
+    "static/js/2.d0e35b3a.chunk.js.map": "/job-serach/static/js/2.d0e35b3a.chunk.js.map",
+    "index.html": "/job-serach/index.html",
+    "precache-manifest.4a47098f1f4bd3e709b8c3fc6f46d3b4.js": "/job-serach/precache-manifest.4a47098f1f4bd3e709b8c3fc6f46d3b4.js",
+    "service-worker.js": "/job-serach/service-worker.js",
+    "static/css/main.e8d3918d.chunk.css.map": "/job-serach/static/css/main.e8d3918d.chunk.css.map",
+    "static/js/2.d0e35b3a.chunk.js.LICENSE": "/job-serach/static/js/2.d0e35b3a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09bb1836.js",
+    "static/js/2.d0e35b3a.chunk.js",
+    "static/css/main.e8d3918d.chunk.css",
+    "static/js/main.8c63d8c3.chunk.js"
+  ]
+}
