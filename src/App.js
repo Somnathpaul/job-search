@@ -36,7 +36,7 @@ class App extends Component {
       <div className="App">
         <h1>Job Search</h1>
         <SearchBox placeholder='full stack' handelChange = {this.handelChange}/>
-        <CardList jobs={filterJobs}></CardList>
+        <CardList jobs={filterJobs} />
         
         
         
